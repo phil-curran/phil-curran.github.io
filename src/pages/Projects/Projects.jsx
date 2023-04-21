@@ -29,13 +29,13 @@ const Projects = () => {
 
           <div className="projectLinks">
             <p>
-              <a href="" target="_blank">
+              <a href="https://phil-curran.github.io/" target="_blank">
                 Live
               </a>
             </p>
             <p>
               <a
-                href="https://github.com/phil-curran/js-flashcards"
+                href="https://github.com/phil-curran/phil-curran.github.io"
                 target="_blank"
               >
                 Github
@@ -49,11 +49,11 @@ const Projects = () => {
             <div className="projectImage">
               <img className="projectImage" src={jscard2} alt="" />
             </div>
-            <p className="liveLink">
+            {/* <p className="liveLink">
               <a href="" target="_blank">
                 Live
               </a>
-            </p>
+            </p> */}
             <p className="githubLink">
               <a
                 href="https://github.com/phil-curran/js-flashcards"
@@ -95,14 +95,14 @@ const Projects = () => {
             <div className="projectImage">
               <img className="projectImage" src={mindMachine} alt="" />
             </div>
-            <p className="liveLink">
+            {/* <p className="liveLink">
               <a href="" target="_blank">
                 Live
               </a>
-            </p>
+            </p> */}
             <p className="githubLink">
               <a
-                href="https://github.com/phil-curran/js-flashcards"
+                href="https://github.com/phil-curran/mind-machine"
                 target="_blank"
               >
                 Github
@@ -148,20 +148,21 @@ const Projects = () => {
             <div className="projectImage">
               <img className="projectImage" src={planetaryHours} alt="" />
             </div>
-            <p className="liveLink">
+            {/* <p className="liveLink">
               <a href="" target="_blank">
                 Live
               </a>
-            </p>
+            </p> */}
             <p className="githubLink">
               <a
-                href="https://github.com/phil-curran/js-flashcards"
+                href="https://github.com/phil-curran/astro-page"
                 target="_blank"
               >
                 Github
               </a>
             </p>
           </div>
+
           <h2 className="projectHeader">Astro Page</h2>
           <div className="projectDescription">
             <p>

@@ -7,21 +7,18 @@
 .projectsContainer {
   display: grid;
   grid-template-columns: auto 960px auto;
-  grid-template-rows: 1fr 10fr 1fr;
+  grid-template-rows: 0.5fr 10fr 0.5fr;
 }
 
 .projectsContent {
   grid-column: 2 / 3;
   grid-row: 2 / 3;
-  height: 66vh;
-  margin-bottom: 50px;
 }
 
 .projects {
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 24px;
-  clear: both;
 }
 
 .project {

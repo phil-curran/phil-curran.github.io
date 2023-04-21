@@ -37,18 +37,23 @@ const Home = () => {
             <div className="resume">
               <img className="contactIcon" src={pdf} alt="" />
             </div>
+
             <div className="emailAddress">
               <img className="contactIcon" src={mail} alt="" />
             </div>
+
             <div className="phone">
               <img className="contactIcon phoneSize" src={phone} alt="" />
             </div>
+
             <div className="location">
               <img className="contactIcon" src={location} alt="" />
             </div>
+
             <div className="linkedInLink">
               <img className="contactIcon" src={linkedin} alt="" />
             </div>
+
             <div className="githubLink">
               <img className="contactIcon" src={github} alt="" />
             </div>
