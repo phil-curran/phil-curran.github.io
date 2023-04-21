@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+
+:root {
+  --drop-shadow: rgba(53, 59, 72, 0.2);
+  --drop-shadow-hover: rgba(53, 59, 72, 0.5);
+  --border-color: rgba(47, 54, 64, 0.3);
+}
+
+.skillsContainer {
+  display: grid;
+  grid-template-columns: auto 960px auto;
+  grid-template-rows: 0.55fr 10fr;
+}
+
+.skillsContent {
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
+}
+
+.skills {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-gap: 24px;
+  clear: both;
+}
+
+.skill {
+  background-color: white;
+  border: 1px solid var(--border-color);
+  filter: drop-shadow(0px 2px 2px var(--drop-shadow));
+  border-radius: 4px;
+  text-align: center;
+  padding: 24px 12px;
+  width: 120px;
+  height: 140px;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1.2fr 1fr;
+  justify-items: center;
+  align-items: center;
+}
+
+.skill:hover {
+  filter: drop-shadow(0px 4px 2px var(--drop-shadow-hover));
+}
+
+.skill img {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.skill p {
+  font-family: "JetBrains Mono", monospace;
+  margin-bottom: 0px;
+}
