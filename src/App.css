@@ -2,12 +2,10 @@
 
 /* fonts */
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
 
 /* colors */
 :root {
-  --navbar-bg: #2f3640;
+  --navbar-bg: #353b48;
   --navbar-font: #95a5a6;
   --navbar-active: #ecf0f1;
   --main-bg: #ecf0f1;
@@ -36,18 +34,14 @@ ul,
 ol,
 li,
 label,
-input .footer {
-  font-family: "IBM Plex Sans", sans-serif;
-  color: var (--main-font);
-}
-
 h1,
 h2,
 h3,
 h4,
 h5,
-h6 {
-  font-family: "Roboto Slab", serif;
+h6,
+input .footer {
+  font-family: "IBM Plex Sans", sans-serif;
   color: var (--main-font);
 }
 

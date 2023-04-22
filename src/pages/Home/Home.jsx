@@ -19,9 +19,9 @@ const Home = () => {
           </div>
           <div className="intro">
             <p>
-              I’m a Front-end Developer and Javascript enthusiast with 10 years
-              experience doing front-end work in the online education space as
-              an instructional designer.
+              I’m a Seattle-based Front-end Developer and Javascript enthusiast
+              with 10 years experience doing front-end work in the online
+              education space as an instructional designer.
             </p>
             <p>
               I’m passionate about well-documented, performant, and maintainable
@@ -35,15 +35,25 @@ const Home = () => {
           </div>
           <div className="contacts">
             <div className="resume">
-              <img className="contactIcon" src={pdf} alt="" />
+              <a
+                href="../../assets/resume.pdf"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img className="contactIcon" src={pdf} alt="" />
+              </a>
             </div>
-
             <div className="emailAddress">
-              <img className="contactIcon" src={mail} alt="" />
+              <a href="mailto: pecurran@outlook.com">
+                <img className="contactIcon" src={mail} alt="" />
+              </a>
             </div>
 
             <div className="phone">
-              <img className="contactIcon phoneSize" src={phone} alt="" />
+              <a href="tel:4252176073">
+                {" "}
+                <img className="contactIcon phoneSize" src={phone} alt="" />
+              </a>
             </div>
 
             <div className="location">
@@ -51,11 +61,24 @@ const Home = () => {
             </div>
 
             <div className="linkedInLink">
-              <img className="contactIcon" src={linkedin} alt="" />
+              <a
+                href="https://www.linkedin.com/in/philcurran/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                {" "}
+                <img className="contactIcon" src={linkedin} alt="" />
+              </a>
             </div>
 
-            <div className="githubLink">
-              <img className="contactIcon" src={github} alt="" />
+            <div className="ghLink">
+              <a
+                href="https://github.com/phil-curran"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img className="contactIcon" src={github} alt="" />
+              </a>
             </div>
           </div>
         </div>

@@ -48,6 +48,23 @@ textarea {
   height: 44px;
 }
 
+.messageLabel {
+  margin-left: 24px;
+  margin-bottom: 0px;
+}
+
+.messageField {
+  margin-top: 8px;
+  width: 95%;
+}
+
+.submitBtn {
+  grid-column: 1 / 3;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button,

@@ -34,14 +34,14 @@ const ContactForm = () => {
         />
       </div>
 
-      <div>
+      <div className="message">
         <label className="messageLabel" htmlFor="message">
           Message:
         </label>
-        <textarea id="message" className="message"></textarea>
+        <textarea id="message" className="messageField"></textarea>
       </div>
 
-      <div>
+      <div className="submitBtn">
         <button type="submit">Submit</button>
       </div>
     </form>

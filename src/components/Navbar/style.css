@@ -29,6 +29,10 @@
   align-items: center;
 }
 
+.active {
+  color: white;
+}
+
 a {
   text-decoration: none;
   color: var(--navbar-font);

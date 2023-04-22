@@ -13,7 +13,16 @@
 .homeContent {
   grid-column: 2 / 3;
   grid-row: 2 / 3;
-  height: 50vh;
+  height: 48vh;
+  background-color: white;
+  border: 1px solid var(--border-color);
+  filter: drop-shadow(0px 2px 2px var(--drop-shadow));
+  border-radius: 4px;
+  padding: 0px 50px 0px 50px;
+}
+
+.homeContent h1 {
+  margin-bottom: 12px;
 }
 
 .businessCard {
@@ -51,34 +60,34 @@
   grid-row: 2 / 3;
   display: grid;
   grid-template-rows: 1fr;
-  grid-template-columns: repeat(6, 1fr);
-  /* justify-items: center;
-  align-items: center; */
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr 1fr 2fr;
+  justify-items: center;
+  align-items: center;
 }
 
 .resume {
-  grid-column: 1 / 2;
-}
-
-.emailAddress {
   grid-column: 2 / 3;
 }
 
-.phone {
+.emailAddress {
   grid-column: 3 / 4;
 }
 
-.location {
+.phone {
   grid-column: 4 / 5;
 }
 
-.linkedInLink {
+.location {
   grid-column: 5 / 6;
 }
 
-.githubLink {
-  grid-row: 1 / 2;
+.linkedInLink {
   grid-column: 6 / 7;
+}
+
+.ghLink {
+  grid-row: 1 / 2;
+  grid-column: 7 / 8;
 }
 
 .contactIcon {

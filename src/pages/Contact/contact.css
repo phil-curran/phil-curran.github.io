@@ -9,13 +9,13 @@
   grid-column: 2 / 3;
   grid-row: 2 / 3;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 0.5fr 0.5fr 2fr;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 1fr 1fr 2fr 1fr;
   grid-gap: 20px;
 }
 
 .content h1 {
-  grid-column: 1 / 4;
+  grid-column: 1 / 6;
   grid-row: 1 / 2;
   display: flex;
   align-items: center;
@@ -27,36 +27,48 @@
 .calendly,
 .linkedIn {
   display: grid;
-  align-content: center;
   justify-content: center;
   text-align: center;
+}
+
+.icon {
+  display: grid;
+  align-items: self-end;
 }
 
 .email,
 .calendly,
 .linkedIn,
 .formContainer {
-  border: 1px solid black;
-  border-radius: 5px;
+  background-color: white;
+  border: 1px solid var(--border-color);
+  filter: drop-shadow(0px 2px 2px var(--drop-shadow));
+  border-radius: 4px;
+}
+
+.email:hover,
+.calendly:hover,
+.linkedIn:hover .skill:hover {
+  filter: drop-shadow(0px 4px 2px var(--drop-shadow-hover));
 }
 
 .email {
-  grid-column: 1 / 2;
-  grid-row: 2 / 3;
-}
-
-.calendly {
   grid-column: 2 / 3;
   grid-row: 2 / 3;
 }
 
-.linkedIn {
+.calendly {
   grid-column: 3 / 4;
   grid-row: 2 / 3;
 }
 
+.linkedIn {
+  grid-column: 4 / 5;
+  grid-row: 2 / 3;
+}
+
 .formContainer {
-  grid-column: 1 / 4;
+  grid-column: 1 / 6;
   grid-row: 3 / 4;
 }
 

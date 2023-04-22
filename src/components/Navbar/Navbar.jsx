@@ -11,7 +11,7 @@ const Navbar = () => {
     <aside className="navbar">
       <Monogram />
       <Link className="home" to="/">
-        <span className="material-symbols-outlined">home</span>
+        <span className="material-symbols-outlined active">home</span>
       </Link>
       <Link className="projects" to="/projects">
         <span className="material-symbols-outlined">code_blocks</span>
