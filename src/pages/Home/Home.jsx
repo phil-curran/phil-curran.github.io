@@ -36,7 +36,7 @@ const Home = () => {
           <div className="contacts">
             <div className="resume">
               <a
-                href="../../assets/resume.pdf"
+                href="https://drive.google.com/file/d/15kKmGmQgAYMFDh6iEXgNZLu-TT3mTlcQ/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >
