@@ -198,6 +198,7 @@
 
 @media (max-width: 651px) {
   .homeContainer {
+    grid-template-columns: auto 90vw auto;
     grid-template-rows: 75px auto 75px;
   }
 
@@ -207,6 +208,42 @@
 
   .contacts {
     grid-column: 1 / 3;
+    max-height: 50px;
+    margin-top: 0px;
+  }
+}
+
+@media (max-width: 575px) {
+  .homeContainer {
+    grid-template-columns: auto 90vw auto;
+    grid-template-rows: 35px auto 25px;
+  }
+  .businessCard {
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.3fr 1fr 1fr 0.2fr;
+    justify-content: center;
+  }
+
+  .salutation {
+    max-height: 100px;
+    grid-column: span 1;
+    grid-row: 1 / 2;
+  }
+
+  .pic {
+    grid-column: span 1;
+    grid-row: 2 / 3;
+  }
+
+  .intro {
+    grid-column: span 1;
+    grid-row: 3 / 4;
+  }
+
+  .contacts {
+    grid-column: span 1;
+    grid-row: 4 / 5;
+    grid-template-columns: repeat(6, 1fr);
     max-height: 50px;
     margin-top: 0px;
   }

@@ -20,7 +20,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0px;
+  margin: 20px;
 }
 
 .email,
@@ -32,8 +32,22 @@
 }
 
 .icon {
+  margin-top: 12px;
   display: grid;
-  align-items: self-end;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon img {
+  max-width: 40px;
+  max-height: 40px;
+}
+
+.email a,
+.calendly a,
+.linkedIn a {
+  text-decoration: none;
+  color: var(--text-color);
 }
 
 .email,
@@ -82,7 +96,19 @@
 @media screen and (max-width: 650px) {
   .contactContainer {
     height: 60vh;
-    grid-template-columns: 1fr 6fr 1fr;
+    grid-template-columns: auto 90vw auto;
     grid-template-rows: 0.2fr 5fr 0.5fr;
+  }
+}
+
+@media (max-width: 575px) {
+  .contactContainer {
+    grid-template-columns: auto 90vw auto;
+    grid-template-rows: auto 60vh auto;
+  }
+
+  #message,
+  .messageField {
+    width: 91%;
   }
 }

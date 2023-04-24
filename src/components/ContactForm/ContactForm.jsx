@@ -1,6 +1,11 @@
 import "./contactForm.css";
 
 const ContactForm = () => {
+  const handleFormSubmit = (e) => {
+    e.preventDefault();
+    alert("Email form coming soon!");
+  };
+
   return (
     <form className="contactForm">
       <div className="name">
@@ -42,7 +47,7 @@ const ContactForm = () => {
       </div>
 
       <div className="submitBtn">
-        <button type="submit">Submit</button>
+        <button onClick={handleFormSubmit}>Submit</button>
       </div>
     </form>
   );
