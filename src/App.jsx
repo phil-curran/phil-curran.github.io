@@ -34,8 +34,9 @@ function App() {
             />
             <Route path="*" element={<Error />} />
           </Routes>
-
-          <div className="footer">© Phil Curran, M.S. 2023</div>
+        </div>
+        <div className="footer">
+          <p>© Phil Curran, M.S. 2023</p>
         </div>
       </div>
     </div>

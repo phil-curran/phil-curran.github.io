@@ -13,6 +13,21 @@ const Projects = () => {
         <div id="portfolio-site" className="project">
           <div className="projectThumbnail">
             <img className="projectImage" src={portfolioSite} alt="" />
+            <div className="projectLinks">
+              <p>
+                <a href="https://phil-curran.github.io/" target="_blank">
+                  Live
+                </a>
+              </p>
+              <p>
+                <a
+                  href="https://github.com/phil-curran/phil-curran.github.io"
+                  target="_blank"
+                >
+                  Github
+                </a>
+              </p>
+            </div>
           </div>
           <h2 className="projectHeader">Portfolio Site</h2>
           <div className="projectDescription">
@@ -25,22 +40,6 @@ const Projects = () => {
               <strong>Tools:</strong>
             </p>
             <p>HTML5, CSS3, CSS Grid, React, React Router.</p>
-          </div>
-
-          <div className="projectLinks">
-            <p>
-              <a href="https://phil-curran.github.io/" target="_blank">
-                Live
-              </a>
-            </p>
-            <p>
-              <a
-                href="https://github.com/phil-curran/phil-curran.github.io"
-                target="_blank"
-              >
-                Github
-              </a>
-            </p>
           </div>
         </div>
 

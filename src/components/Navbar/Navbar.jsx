@@ -7,6 +7,7 @@ import Monogram from "./Monogram/Monogram";
 
 const Navbar = () => {
   const [active, setActive] = useState("home");
+
   return (
     <aside className="navbar">
       <Monogram />
