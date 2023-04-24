@@ -12,8 +12,10 @@ const Home = () => {
   return (
     <section className="homeContainer">
       <div className="homeContent">
-        <h1>Hello!</h1>
         <div className="businessCard">
+          <div className="salutation">
+            <h1>Hello!</h1>
+          </div>
           <div className="pic">
             <img className="photo" src={phil} alt="" />
           </div>

@@ -124,16 +124,14 @@ h2 {
     grid-template-rows: 100px auto 60px;
   }
 
-  .navbar {
-    grid-row: 1 / 2;
-    display: grid;
-    grid-template-columns: 100px 1.5fr 1fr 1fr 1fr 1fr 2fr;
+  .main {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
   }
 
-  .footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  .navbar {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
   }
 }
 
