@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+h3.section-subtitle {
+  font-size: 18px;
+}
+
+/*.arrow:before,*/
+
+.arrow:after {
+  content: " ";
+  display: table;
+}
+.arrow:after {
+  clear: both;
+}
+.arrow_body {
+  height: 40px;
+  background-color: #36657c;
+  float: left;
+}
+.arrow_body h2 {
+  color: #FFFFFF;
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  font-size: 24px;
+  margin: 8px;
+  margin-top: 0px;
+  margin-right: 5px;
+  font-weight: bold;
+}
+.arrow_body h2 i {
+  color: #fff;
+  font-size: 20px;
+}
+.arrowhead {
+  height: 0px;
+  width: 0px;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 20px solid #36657c;
+  float: left;
+}

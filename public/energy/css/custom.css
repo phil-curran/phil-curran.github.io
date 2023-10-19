@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "UTF-8";
+
+/* CSS Document */
+
+blockquote {
+background-image: url(https://d396qusza40orc.cloudfront.net/virtualshakespeare/images/quote.png);
+background-repeat: no-repeat;
+border-left: none;
+
+margin-top: 15px;
+font-family: Georgia, Serif;
+}
+
+blockquote p {
+padding-top: 10px;
+font-size:15px;
+font-style: italic;
+
+
+}
+
+.author {
+	font-family: Georgia, Serif;
+font-style: italic;
+padding-bottom: 20px;
+
+}
+
+.footnote {
+	font-family: Georgia, Serif;
+	
+}
+
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+
+.firstcharacter { 
+float: left; 
+font-size: 65px; 
+line-height: 50px; 
+padding-top: 4px; 
+padding-right: 8px; 
+padding-left: 3px; 
+font-weight: 100;
+ }
+ 
+.muted {
+color: #6a6a6a;	
+}
+
+.menu {
+display: inline;
+list-style-type: none;	
+padding-right: 20px;
+}
+
+#menu_wrap {
+text-align: center;
+font-family: Georgia, Serif;
+
+}
