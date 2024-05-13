@@ -1,114 +1,26 @@
-.contactContainer {
-  height: 100vh;
-  display: grid;
-  grid-template-columns: auto 960px auto;
-  grid-template-rows: 1fr 1fr 1fr;
+.contact-card {
+  margin-top: 40px;
 }
 
-.content {
-  grid-column: 2 / 3;
-  grid-row: 2 / 3;
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: 1fr 1fr 2fr 1fr;
-  grid-gap: 20px;
-}
-
-.content h1 {
-  grid-column: 1 / 6;
-  grid-row: 1 / 2;
+.emailBtn,
+.calendlyBtn,
+.linkedinBtn {
   display: flex;
-  align-items: center;
   justify-content: center;
-  margin: 20px;
 }
 
-.email,
-.calendly,
-.linkedIn {
-  display: grid;
-  justify-content: center;
-  text-align: center;
+.emailBtn {
+  grid-column: 1 / 2;
 }
 
-.icon {
-  margin-top: 12px;
-  display: grid;
-  justify-content: center;
-  align-items: center;
-}
-
-.icon img {
-  max-width: 40px;
-  max-height: 40px;
-}
-
-.email a,
-.calendly a,
-.linkedIn a {
-  text-decoration: none;
-  color: var(--text-color);
-}
-
-.email,
-.calendly,
-.linkedIn,
-.formContainer {
-  background-color: white;
-  border: 1px solid var(--border-color);
-  filter: drop-shadow(0px 2px 2px var(--drop-shadow));
-  border-radius: 4px;
-}
-
-.email:hover,
-.calendly:hover,
-.linkedIn:hover .skill:hover {
-  filter: drop-shadow(0px 4px 2px var(--drop-shadow-hover));
-}
-
-.email {
+.calendlyBtn {
   grid-column: 2 / 3;
-  grid-row: 2 / 3;
 }
 
-.calendly {
+.linkedinBtn {
   grid-column: 3 / 4;
-  grid-row: 2 / 3;
 }
 
-.linkedIn {
-  grid-column: 4 / 5;
-  grid-row: 2 / 3;
-}
-
-.formContainer {
-  grid-column: 1 / 6;
-  grid-row: 3 / 4;
-}
-
-@media screen and (max-width: 1060px) {
-  .contactContainer {
-    grid-template-columns: 1fr 6fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
-  }
-}
-
-@media screen and (max-width: 650px) {
-  .contactContainer {
-    height: 60vh;
-    grid-template-columns: auto 90vw auto;
-    grid-template-rows: 0.2fr 5fr 0.5fr;
-  }
-}
-
-@media (max-width: 575px) {
-  .contactContainer {
-    grid-template-columns: auto 90vw auto;
-    grid-template-rows: auto 60vh auto;
-  }
-
-  #message,
-  .messageField {
-    width: 91%;
-  }
+.contactSubheader {
+  margin-bottom: 0px;
 }
