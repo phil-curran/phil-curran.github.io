@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media print {
+	.nav-tabs,
+	.topnav {
+		display: none;
+	}
+	.soundcloud {
+		display: none;
+	}
+}
+
+table.alert p {
+	margin-bottom: 10px;
+	line-height: normal;
+}

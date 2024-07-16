@@ -1,0 +1,18 @@
+.skills-table {
+  margin-top: 40px;
+}
+
+.skill-block {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.skill-card {
+  margin: 0;
+}
+
+.tab-panel {
+  margin: 16px;
+}

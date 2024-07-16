@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.arrow_body a {color: #fff;}
+.tabbable h4 {margin-top: 20px;}
+.tab-pane {margin-bottom: 20px;}
+#wilson {border-left: solid 4px #b1b1b1;}
+#wilson p {line-height: normal; padding-left: 10px;}
+
+@media print {
+   .nav-tabs, .topnav {display: none; }
+   .soundcloud {display:none;}
+   #table1, #table2, #table3 {display: block;}
+}
