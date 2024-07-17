@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media print {
+	#china1,
+	#china2 {
+		display: block;
+		margin-top: 40px;
+	}
+	.nav-tabs,
+	.topnav {
+		display: none;
+	}
+	.soundcloud,
+	.supplymodes {
+		display: none;
+	}
+}
