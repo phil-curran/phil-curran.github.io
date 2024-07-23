@@ -1,0 +1,110 @@
+Production Transcript for FischmanPodcast.mp3
+
+
+
+
+[00:00:01]
+>> Gustavo, thank you so much for taking the time to talk with us on something that you're very specialist in.  I've got a big interest particularly around academic publishing and its politics and economics, and some of the new directions that have been emerging.  We are hoping this will be around about a 15- to 20-minute conversation, and there will be others that will engage with this conversation.  So perhaps if we can just start off with the first question about what you see are the tradeoffs that are actually working at the current time around open-access publishing, of which you're an editor of a very well-known open access journal, and other forms of conventional media, and how you position those newer kinds of developments, perhaps, in relation to more traditional forms of publishing.
+
+[00:01:04]
+>> Gustavo: Well, so first of all, thanks for the invitation to talk and share these ideas.  I am very pleased to, you know, know more about your project.  And so answering, is there tradeoffs between the open-access movement and the conventional academic models? The landscape of academic publishing is changing very rapidly, at least in the last 25 years we see the emergence of new models and new alternatives.  And the one that seems to get more traction and more attention is the open access.  Open access is coming in different flavors and different models.  And the discussion is pretty much alive right now.  So it's hard for me to predict the future of how is that going to evolve, but I have concerns with regards to how open access will be financed.  
+[00:02:20]
+So the business model, or the economic model, for the sustainability of those publications that are moving into open access is the biggest and most challenging issue that we need to address.  And it's going to have regional answers that are going to vary depending on the traditions and economic landscape of each region.  To give you an example, if you look at Scopus, the database, they list -- the bias is to list mostly publications from Europe and North America.  So in that database, there are 15,000 journals.  73% of the journals from Latin America listed in Scopus are open access; but only 5% of the North American and around 7% of the European journals are open access in Scopus.  
+[00:03:30]
+So in Latin America and Africa, open access is the dominant model for scholarly communications.  And it's not the same in Europe and North America.  But with the emergence of open-access mega-journals, this is changing.  So how is this going to happen or evolve in the next few years, I don't know.  But I don't have concerns with regards to the quality, this discussion about the quality of open access.  There are very good open-access journals, and they are really very bad open-access journals, but it's the same with the academic -- the traditional academic models.  
+
+[00:04:16]
+>> So, Gustavo, you were -- we were going to ask you about the political economy or the financial model of, how is it that, for example, there’s this big open-access trend in Latin America and Africa, but somehow in North America and parts of Europe it manages to retain for itself a very closed system?  Surely the tendency would be in the direction of being more open?  
+
+[00:04:43]
+>> Gustavo: Yeah, I think that this is -- in Latin America and Africa the lack of presence of the traditional commercial publishing houses, or a very strong tradition of institutional journals, and so there is no Latin American academy of sciences.  There are country-based academies, but there is not the tradition that each of those academies will have a publication.  In some cases you see those, but they are not very strong.  And given the changes in the higher education landscape in Latin America and Africa and parts of Asia in the last 25 years, and this search for position in each university within the world rankings of best universities or things like that, there was an incentive, if you want, for programs to develop their own journals.  
+[00:06:08]
+And at the same time because the appearance of open-access and open-source software assisted in that process, the one that is, you know, widely used since the open journal systems, that facilitated the emergence of thousands of journals in the region.  And so that combination, you know, incentives to increase the number of publications and the visibility of the publications in the region, and the availability of the software facili—  this is a much more complex process, but, you know, these two factors play a, you know, large role in the increase of the size of the academic scholarly publication sector in Latin America and Africa.  In North America and Europe, you have a very -- you know, in Europe you have 450 years of traditions in academic publications, and a very strong presence of commercial publishers, and the same in the US.  
+[00:07:25]
+The models in the US and Europe are not exactly the same, but in the two regions you have these two players dominating academic publications for centuries, a combination of academic publishers for profit and not-for-profit, and a very strong tradition that each academy or professional association will develop their own journals; so the American Journal of Economics, or the American Journal for Education, or the European -- the British Journal of Sociology of Education and things like that.  So open access in Europe, and in the US, or North America are increasing.  You see the increase.  Clearly there are many more institutions and organizations that are developing at least one open-access journal.  
+[00:08:28]
+And now with the emergence of the mega-journal model, there are many more people entering into the conversation about what are advantages or disadvantages of open-access models for academic publishing in the world.  But, you know, the discussion is happening at different speeds in Latin America and Africa than Western Europe and North America.  
+
+[00:08:57]
+>> So what's the attraction of the open-access model at one level?  I mean, opening up -- I mean is there a kind of semi-commercial, kind of imperialist model, if you like? In other words by -- on the one hand then, let's say, for those centers that are in knowledge-intensive industries, you know, seeing what other kinds of knowledges that they can actually easily get access to by their open-access publications and this kind of thing?  That clearly could get drawn back into and sucked back into the knowledge-intensive sectors, or those countries really kind of pushing hard in the global competition for this.  I mean, is that one way we could look at this? As opposed to, you know, "This is a democratic move.”  In other words, I'm wanting to try and understand what its politics is, aside from a politics just to do with the democratization of knowledge.  
+
+[00:09:55]
+>> Gustavo: But I think that both factors are playing a role, and it all depends what's your industry or what's your field of knowledge, and how commercialized is the field, on the one hand, and how the, you know, forces that can take advantage of that knowledge are willing to invest and appropriate that knowledge.  So, I mean, the process -- for those fields that are closer to, you know, big business, pharmacologic, agroindustries, oil exploration, I don't think that in that group, if you want, there is a big push for open access.  There is no -- that I -- you know, that they have very little difficulties in accessing to the knowledge produced by anybody, because the price tag for those companies to buy that knowledge is very little.  
+[00:11:13]
+And in many cases they produce -- you know, this is an element that we need to consider:  The private sector also develops research and produces knowledge that is not -- that one is not accessible by the public; and that's a problem.  So we will be really benefited by making open access the, you know, knowledge produced by those companies, or making it accessible at least.  For the humanities, social sciences, or the less commercialized areas, I think that the attempt of making that knowledge more accessible, and more accountable, and more usable by people all over the world is also an incentive, and it plays a role.  So I think that the two dynamics are happening at the same time; not -- you know, we shouldn't -- I don't think that there is only one that covers everybody in universities or research centers.  
+
+[00:12:34]
+>> But that's -- so --  
+
+[00:12:34]
+>> Gustavo: Particularly not one that it's moving the same direction in Latin America, Africa, and the rest for -- you know, in the global South and in global North, if you want.  
+
+[00:12:45]
+>> Can I bring Chris in now and ask him to pose a question?  
+
+[00:12:50]
+>> Gustavo: Yes.  
+
+[00:12:51]
+>> Chris: So wondering about the gatekeepers to knowledge, and journals and books obviously being one of the main outputs from the academy, are filled with structures that are controlled by people with power and authority.  And I'm wondering if open access and other digital technologies are changing those gates and those gatekeepers.  
+
+[00:13:15]
+>> Gustavo: Oh, well that's -- [laughs] you know, independently of open access, the use of social media, and blogs, and alternative ways of disseminating knowledge is having a huge impact, and is changing -- is making new actors acting as gatekeepers or the new editors, and the new curators of research.  And this is perhaps the dynamic that is replacing the discussion about making our production open-access or not in a way not as relevant as it was five years ago.  The obsession -- well it's not obsession, it's the concern of universities and governments for understanding what is the impact, beyond citations, of scholarly productions, and knowledge production, and research production, is huge; and nobody knows exactly how to do it.  
+[00:14:34]
+So we have on the one hand the movement, the altmetrics movement trying to understand what's the social media impact of our production.  And that is giving voice and weight to the opinions and perspectives of bloggers, and other forms of dissemination; a lot more than what the editor of a prestigious journal can say.  And if you don't embrace social media today, it seems that you are crazy, and people think that you don't know what to do.  But the truth is, you know, right now there are two tracks, if you want, the track of the traditional scholarly models, and the track of the social media.  There are very interesting experimentations, but I don't see a complete coupling of the two models. But I'm seeing that as the future.  
+[00:15:51]
+So there are new gatekeepers.  Today we've published an article in our journal, and it's, you know, really funny to read how the people that use social media get to know what we publish, and what my colleagues used to get in the articles from the libraries are in the same article.  There seems two parallel universes.  
+
+[00:16:19]
+>> Is mega-journals a third track, though, because it seems to me that what they're doing is -- it's extended analysis in some sense, but actually it's -- the gatekeepers are not quite there in the same way.  I mean, would you say that they're a third track?  
+
+[00:16:37]
+>> Gustavo: I think that the mega-journal is the biggest disruption in the industry. It’s coming, not well-established; because they are very expensive.  You know, they -- to have a really good mega-journal, in the model of the Public Library of Science ONE, it's not that -- you know, there is a mistake in thinking that open access means free and nobody pays.  Somebody has to pay.  So but the mega-journal has that very interesting combination of using altmetrics, traditional -- you know, the altmetrics plus the counting of citations.  But it brings the notion of speed and efficiency, and in many cases some of the mega-journals that are emerging aren’t doing -- are proposing to change the metric of rejection as the best way of knowing the quality of the article to the metric of, "Is this article competently written?"  
+[00:17:54]
+Let the audience, the multiple audiences, decide if this is relevant or not.  So instead of spending nine months, you know, rejecting the article and trying to find how original, or how significant, or not significant is the contribution of this piece, to make it in less than a month, and see what the readership and the peers are saying about the article.  So, in that case, peers that don't engage in social media, their voices are going not to be heard, so that is --  
+
+[00:18:33]
+>> So it's almost like a kind of crowd-sourced peer-review process, which is interesting.  
+
+[00:18:40]
+>> Gustavo: Exactly.  Yes; it is -- and it's -- and this one is the emergence of multiple voices.  And we have those, you know, examples of one article that is written in a very friendly style, and that has very little interest for the scientific community, but it has, you know, great appeal.  And so an article could be very popular in the clouds, but will have absolutely no interest for the scholarly community, and the other article that is written in a language that is very specialized, very difficult, or very technical and has great appeal for a smaller scientific community.  The mega-journal offers space for both, and offers space for both at a greater speed, and it seems in a more efficient way, and it gives you real-time indications of the different impacts.  
+[00:19:50]
+But --  
+
+[00:19:52]
+>> But also --  
+
+[00:19:52]
+>> Gustavo: -- different impacts, it's not just one model, you know.  
+
+[00:19:56]
+>> Yes; but it occurs to me that this idea of these mega-journals almost parallels what you see in policy more generally. So things -- the funds have to be, you know, mega-funds that everything -- I mean, big data.  And so I'm thinking about that move toward big data, mega-funding, mega-journals, and so on.  There's something about a metaphor of our time at the moment that this kind of plays into.  Would you -- I mean could you comment on that?  
+
+[00:20:33]
+>> Gustavo: Well, I -- your reading is correct.  I think that these, again, there are dynamics that are emerging and that are moving towards what is the dominant industry of the time.  So, I think that in some places the mega-journals are going to devastate the current landscape.  So we are, you know, very careful in terms of advocating or not advocating the creation of mega-journals in all regions of the world, because, you know, the region that I'm much more familiar and I know more about is Latin America.  In Latin America we are having this discussion with regards to the invisible visibility of the Latin American production.  
+[00:21:36]
+So the number of articles produced in the region in the last twenty years has multiplied by a factor of, you know, a hundred, so it's great.  But still those publications -- or those articles are published in very fragile journals that are not well-indexed, and they are not well-recognized, and sometimes are not distributed well, even through Internet, because the metadata of those journals and articles is not properly entered.  So you have serious problems.  So the idea of having one mega-journal per field in a collaborative model, in a way that will strengthen the production of the region, appears to be very appealing and compelling for governments and the associations.  
+[00:22:38]
+At the same time, if you do that, all the journals that you have in that region -- in that field today will disappear.  And what's going to happen with that?  So can we pool together the resources of all these journals and generate a gigantic board of review in the field of physics, or agriculture, or sociology, education, and have a mega-journal? that's a model that is being discussed.  And other people are saying just, "No, [laughs] let's have a mega-journal and those journals that are weak and inefficient they should disappear and that will be good for the field."  You know, I'm not so sure about that.  But at the same time, it's very likely that the mega-journals will continue with experimentation, and probably we will find new models.  
+[00:23:43]
+In certain regions, the current — the status quo is bad.  So small experimentations trying to generate better quality and more accessible is not a bad tendency.  
+
+[00:24:03]
+>> Chris: So I think maybe the last question has to do with -- and you talked a little bit about rankings and metrics, and I kind of want to connect that to mega-journals in a way, or some people have referred to the overproduction of academic knowledge.  And it seems like there is a new way of evaluating knowledge in this political economy.  And I'm just wondering if you would talk a bit more about the importance of metrics and rankings given the unbelievable amount of production that's happening, in mega-journals for instance.  
+
+[00:24:56]
+>> Gustavo: Well, and again, it all changes by region and by the type of institutions, the metrics that you use at a research-intensive university in Europe, or the United States, or Canada, or Australia is very different from the metrics that you use at a research-intensive university in, you know, Nigeria or Brazil.  So everybody is trying to appear in those rankings, but internally the way we assess the productivity impact and scholarly relevance or scientific relevance of our production is very different.  And the proliferation of publications we just finished an analysis of our report about the increase of scientific productions in Latin America.  
+[00:25:57]
+And, you know, we reviewed the information for over 3,000 scientists in the region.  And we have a variation of one, you know, faculty in Brazil that has published 38 papers in one year to a colleague in the same institution -- or the average of, you know, their colleagues in the same institution that was two a year.  How do you assess that?  I think that the mega-journal, because -- the biggest change, and I think that this is a good change — in all the other answers I was very hesitant and trying to see the pros and cons.  But there is one change that I welcome.  I think that it's a really good change, something that we can do now -- we have the technology to do it, but I think the political will to do it is something that we need to keep working at, is the article-level metrics, or the individual article-level metrics.  
+[00:27:10]
+Instead of moving to the traditional impact journals, you know, the impact factor in terms of the journal citation and ranking of Scopus, those are very bad measures.  Those are indicators that tell you very little about your contribution as a scientist, or as a scholar, or as an academic.  But if you know more about the life of the article, you have a lot more information, and you can start making more-informed decisions.  So an article by a scientist that will have five citations in a field that is composed by a community of 200 people, well that's a pretty important number of citations.  But the same article will have, you know, 25 tweets in a day, and 100 readers in -- or 100 likes in Facebook, or a million likes in Facebook.  
+[00:28:17]
+That is telling you about perhaps the writing style, the popularity of the author, or the, you know, how sexy or unsexy is the topic of the article.  So moving to the article-level metrics is going to help us to have a very different understanding of that. How fast the universities are going to start paying attention to popularity, and political influence, and social influence, and how trending is the ideas of an author or a scholar, that will be very different.  But many, many universities are looking at this, at the article-level metrics, as a better way of assessing our impact, our influence, our relevance.  And, well, that move, I 100% support.  
+[00:29:21]
+I think that, I really don't care that much about the journal as I care about the article.  And we have to accept that most of our students, they do searches that are by articles, not, you know, nobody goes to a particular journal.  They want to know what their community is saying about certain topics.  And so the move to the article-level metrics is a very good one.  
+
+[00:29:54]
+>> Just as a closing remark, and then we will close it off, but I'm thinking that we are currently here involved in, you know, the Research Excellence Framework, and it does actually ask you to account for the quality of your paper.  But on the other hand, what we know is that some papers don't get currency in part because they might be way out there on the leading edge.  And so as popularity, it's got a very different temporal horizon; but that's a different kind of politics.  So can I just say thank you, Gustavo, very much for sharing your -- not just your thoughts but your real experiences in this area.  And we look forward to talking with you in the future.  
+
+[00:30:44]
+>> Gustavo: Thank you, and good luck with the project.  
