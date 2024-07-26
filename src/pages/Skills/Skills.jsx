@@ -10,41 +10,13 @@ import {
 import SkillCard from "../../components/SkillCard";
 import "./skills.css";
 
-const frontend = [
-  "HTML5",
-  "CSS3",
-  "JavaScript",
-  "TypeScript",
-  "React",
-  "Redux",
-  "Recoil",
-  "Bootstrap",
-  "MaterialUI",
-  "SemanticUI",
-  "SASS",
-  "LESS",
-];
-
-const backend = [
-  "Python",
-  "C",
-  "Node",
-  "Express",
-  "dotnet",
-  "Flask",
-  "Django",
-  "MongoDB",
-  "Firebase",
-  "MySQL",
-  "Supabase",
-  "REST",
-];
-
-const tools = ["Git", "GitHub", "VSCode", "JetBrains"];
-
-const environments = ["Windows", "Mac", "Linux"];
-
-const others = ["Bash", "Figma", "AdobeCC", "JSON", "Markdown"];
+import {
+  frontend,
+  backend,
+  tools,
+  environments,
+  others,
+} from "./skill_imgs.js";
 
 const Skills = () => {
   return (
@@ -69,13 +41,13 @@ const Skills = () => {
           <TabPanels>
             <TabPanel className="tab-panel">
               <div className="skill-block">
-                {frontend.map((skill) => {
+                {frontend.map((skill, index) => {
                   return (
                     <SkillCard
-                      key={skill}
-                      image={`src/assets/${skill}.svg`}
-                      alt={skill}
-                      title={skill}
+                      key={index}
+                      image={skill.icon}
+                      alt={skill.name}
+                      title={skill.name}
                     />
                   );
                 })}
@@ -84,13 +56,13 @@ const Skills = () => {
 
             <TabPanel className="tab-panel">
               <div className="skill-block">
-                {backend.map((skill) => {
+                {backend.map((skill, index) => {
                   return (
                     <SkillCard
-                      key={skill}
-                      image={`src/assets/${skill}.svg`}
-                      alt={skill}
-                      title={skill}
+                      key={index}
+                      image={skill.icon}
+                      alt={skill.name}
+                      title={skill.name}
                     />
                   );
                 })}
@@ -99,13 +71,13 @@ const Skills = () => {
 
             <TabPanel className="tab-panel">
               <div className="skill-block">
-                {tools.map((skill) => {
+                {tools.map((skill, index) => {
                   return (
                     <SkillCard
-                      key={skill}
-                      image={`src/assets/${skill}.svg`}
-                      alt={skill}
-                      title={skill}
+                      key={index}
+                      image={skill.icon}
+                      alt={skill.name}
+                      title={skill.name}
                     />
                   );
                 })}
@@ -114,13 +86,13 @@ const Skills = () => {
 
             <TabPanel className="tab-panel">
               <div className="skill-block">
-                {environments.map((skill) => {
+                {environments.map((skill, index) => {
                   return (
                     <SkillCard
-                      key={skill}
-                      image={`src/assets/${skill}.svg`}
-                      alt={skill}
-                      title={skill}
+                      key={index}
+                      image={skill.icon}
+                      alt={skill.name}
+                      title={skill.name}
                     />
                   );
                 })}
@@ -129,13 +101,13 @@ const Skills = () => {
 
             <TabPanel className="tab-panel">
               <div className="skill-block">
-                {others.map((skill) => {
+                {others.map((skill, index) => {
                   return (
                     <SkillCard
-                      key={skill}
-                      image={`src/assets/${skill}.svg`}
-                      alt={skill}
-                      title={skill}
+                      key={index}
+                      image={skill.icon}
+                      alt={skill.name}
+                      title={skill.name}
                     />
                   );
                 })}

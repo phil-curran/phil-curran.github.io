@@ -4,8 +4,8 @@
    height="50"
    version="1.1"
    id="svg909"
-   sodipodi:docname="bash.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="Bash.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="9.7327535"
-     inkscape:cx="30.361398"
-     inkscape:cy="38.221455"
+     inkscape:cx="30.412771"
+     inkscape:cy="38.170082"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -40,11 +40,6 @@
   </sodipodi:namedview>
   <g
      id="g902">
-    <path
-       fill="#2e3436"
-       d="M 7.8317376e-8,-1.1e-6 H 50 V 50.000001 H 7.8317376e-8"
-       id="path905"
-       style="stroke-width:6.42001" />
     <g
        id="g337"
        style="fill:#4e9a06;fill-opacity:1;stroke-width:5.95843"

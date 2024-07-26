@@ -25,6 +25,14 @@
   justify-content: center;
 }
 
+.skill-block {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 14px;
+  justify-content: space-evenly;
+}
+
 /* Small screens (Smartphones) */
 @media (max-width: 959px) {
   .container {
