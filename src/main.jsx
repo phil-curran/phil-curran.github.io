@@ -9,6 +9,8 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 // routes
 import Root from "./routes/Root";
+import ProjectPage from "./routes/ProjectPage"; 
+// Import the new layout
 import ErrorPage from "./routes/ErrorPage";
 
 // pages
@@ -38,16 +40,23 @@ const router = createBrowserRouter([
         element: <Skills />,
       },
       {
-        path: "projects",
-        element: <Projects />,
-      },
-      {
         path: "contact",
         element: <Contact />,
       },
       {
         path: "id_portfolio",
         element: <IDPortfolio />,
+      },
+    ],
+  },
+  {
+    // projects route with a different layout
+    path: "projects",
+    element: <ProjectPage />, // Use the new layout here
+    children: [
+      {
+        path: "",
+        element: <Projects />,
       },
     ],
   },
