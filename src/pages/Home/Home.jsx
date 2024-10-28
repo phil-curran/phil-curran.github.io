@@ -38,7 +38,7 @@ const Home = () => {
             <div className="resume-link">
               <Tooltip label={"Resume"} placement="bottom">
                 <Link
-                  href="https://drive.google.com/file/d/1amW1HX_-SQ-sjmKCUlvKRE_sqf1e-Gpi/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1wcIuIolFxh7GOwzquwt_FY4ZvVVV4y6_/view?usp=sharing"
                   isExternal
                 >
                   <IconButton
