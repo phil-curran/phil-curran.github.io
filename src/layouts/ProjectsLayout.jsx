@@ -8,11 +8,9 @@ const ProjectPage = () => {
       <div className="main">
         <Outlet />
       </div>
-      <div className="projects-menu">
-        projects
-      </div>
+      <div className="projects-menu">projects</div>
     </div>
   );
 };
 
-export default Root;
+export default ProjectPage;
