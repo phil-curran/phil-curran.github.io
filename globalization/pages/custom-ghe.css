@@ -1,0 +1,124 @@
+@charset "UTF-8";
+/* Globalizing Higher Ed MOOC Custom Styles */
+
+	#uw-wrapper {max-width: 980px; margin: 10px 10px 10px 30px; }
+	a.btn {text-decoration: none;}
+	.lead {margin-bottom:10px;}
+	.well {margin-top: 20px;}
+	.backtotop {text-align: right;}
+	p.box-title.muted {color: #999;}
+	.box-title {font-weight: bold;}
+	.box ul li {margin-bottom: 0; line-height:normal;}
+	.box p {line-height: normal; margin-bottom: 5px;}
+	.g-background-default {background-color: #fafdff;}
+ 	h1, h2 {color: #333;}
+   	h2 {font-size: 28px; }
+   	h3 {font-size: 22px; font-style: normal; line-height: 24px; margin-top: 40px;}
+	h4.light {font-weight: normal; font-style:italic;}
+   	h5 {text-transform: capitalize; color: #999; font-size: 18px; font-weight: normal; margin: 30px 0 10px 0;}
+	h6 {color: #999; font-size: 18px; font-weight: normal;}
+    p {	line-height: 24px;	margin-bottom: 22px;}
+	blockquote {margin-left: 50px;}
+    .pull-right {margin-left: 20px; margin-bottom: 30px;}
+	.pull-left {margin-right: 20px; margin-bottom: 30px;}
+	.soundcloud p {line-height: 16px; }
+	.scdownload {margin-bottom: 0; text-align: right; font-size: 11px;}
+	.sc { font-size: 9px; margin-top: -8px; } /* Used for Week 1 Definitions */
+	.definitions h6 { font-size: 9px; font-weight: bold; margin-top: -6px; margin-bottom: 0px; } /* Used for Week 1 */
+    .alert {padding: 15px;}
+    .instructors {font-size: 18px; font-style: italic; font-weight: bold; margin-top: 20px;}
+    a {text-decoration: underline;}
+	li.disabled a {text-decoration: none; margin-left: 0; padding-left: 0;}
+	.icon-star {color: #e5c100;}
+	.sectionheader {margin-top: 60px;}
+	.section-subtitle {text-transform: uppercase; color: #36657c; margin: 10px 0 10px 8px; font-size: 22px;}
+	.footer.citation:before {content: ""; width: 80px; height: 1px; display: inline-block; background-color: #000; margin: 0 0 10px; }	
+		
+	.footer p {font-size: 12px; color: #333;}
+	.footer li {list-style-type:none;}
+	.figure p { line-height:normal;}
+	.caption {
+	color: #808080;
+	font-weight: bold;
+	font-size: 12px;
+	text-align: left;
+	margin-top: 10px;
+	line-height: normal;
+	text-align: left;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 4px;
+}
+	.source {font-size: 12px; line-height:normal; text-align:left; margin-left: 4px; color:#666;}
+	.directions p, .direction li {line-height:20px;}
+	.table th, .table td {
+		border-top-color: #a1c4dc;
+	}
+	.table th {
+	border-top: none;	
+	}
+	.table {
+	border: none;	
+	}
+  .alert-info {
+  background-color: #e9f1f3;
+  border-color: #a1c4dc;
+  }
+
+		
+  h3.section-subtitle {
+	font-size: 18px;
+}
+
+ /*.arrow:before,*/
+        .arrow:after {
+            content: " ";
+            display: table;
+        }
+        
+        .arrow:after {
+             clear: both;  
+        }
+        
+        .arrow_body {
+            height: 40px;
+            background-color: #36657c;
+            float: left;
+        }
+        
+        .arrow_body h2 {
+            color: #FFFFFF;
+            font-family: "Helvetica Neue", Helvetica, Arial;
+            font-size: 24px;
+            margin: 8px; margin-top: 0px;
+            margin-right: 5px; font-weight: bold;
+        }
+		
+		.arrow_body h2 i {color: #fff; font-size: 20px;}
+        
+        .arrowhead {
+            height: 0px;
+            width: 0px;
+            border-top: 20px solid transparent;
+            border-bottom: 20px solid transparent;
+            border-left: 20px solid #36657c;
+            float: left;
+        }
+	
+	@media print
+		{
+			/* .sectionheader {page-break-before: always;} */
+			.pagebreak {page-break-before: always;}
+			.helpwidget-tab {display: none;}
+			#course-page-content {border: none; border-radius: 0px; box-shadow: none;}
+			.arrowhead {display:none;}
+			.arrow_body h2 {color: #333;}
+			p { line-height: normal; }
+			.backtotop {display: none;}
+			.noprint {display: none;}
+			h2.course-page-header {font-size: 20px; line-height: 24px;}
+			.sectionheader h2 {font-size: 20px; margin-left: 0;}
+			#uw-wrapper p, #uw-wrapper p.lead, #uw-wrapper ul, #uw-wrapper ul li {line-height: normal; }
+			.soundcloudplayer {display:none;}
+			h3.section-subtitle {color: #666; font-size: 16px;}
+		}
