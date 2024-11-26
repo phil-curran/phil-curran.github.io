@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="cp_x5F_9_x5F_appicon.svg"
+   x="0px"
+   y="0px"
+   viewBox="-653 202.5 5 5"
+   xml:space="preserve"
+   sodipodi:docname="Captivate.svg"
+   width="5"
+   height="5"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs4" /><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="91.091366"
+   inkscape:cx="3.6776263"
+   inkscape:cy="4.0234329"
+   inkscape:window-width="1920"
+   inkscape:window-height="1051"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="cp_x5F_9_x5F_appicon.svg" />
+<radialGradient
+   id="SVGID_1_"
+   cx="-1852.743"
+   cy="1433.6819"
+   r="0.78609997"
+   gradientTransform="matrix(555.9,0,0,-540.6,1029496.2,775394.75)"
+   gradientUnits="userSpaceOnUse">
+	<stop
+   offset="0"
+   style="stop-color:#2E4239;stop-opacity:0.98"
+   id="stop1" />
+	<stop
+   offset="1"
+   style="stop-color:#02190D"
+   id="stop2" />
+</radialGradient>
+
+
+<g
+   id="g4"
+   transform="matrix(0.00816993,0,0,0.00837942,-647.66503,200.80317)"><path
+     style="fill:url(#SVGID_1_)"
+     d="M -632.9,220.5 H -59 v 560.6 h -573.9 z"
+     id="path2" /><path
+     style="fill:#00e778"
+     d="M -624.9,228 H -69 V 771.1 H -624.9 Z M -653,799.2 H -41 V 202.5 h -612 z"
+     id="path3" /><path
+     style="fill:#00e778"
+     d="m -362.6,615 v -34.4 c 0,-3.1 -1.3,-3.1 -2.8,-2 -12.2,4.1 -23.5,5.4 -40.3,5.4 -37,0 -82.1,-23.5 -82.1,-103 0,-64.3 32.9,-101.7 82.1,-101.7 17.6,0 32.6,3.1 42.8,7.9 1.3,0.5 3.1,0.5 3.1,-3.1 v -36.3 c 0,-2.5 -0.5,-3.8 -2.6,-4.6 -7.9,-3.8 -23.2,-5.9 -43.6,-5.9 -78.3,0 -129.5,58.1 -129.5,144.6 0,101 58.1,143.8 123.7,143.8 18.1,0 35.7,-1.8 46.7,-6.4 1.8,-0.4 2.5,-1.7 2.5,-4.3 z m 81.9,-160.1 c 6.9,-2 13.3,-3.3 22.2,-3.3 31.9,0 50.5,22.4 50.5,64.3 0,51.3 -29.8,71.7 -58.4,71.7 -4.6,0 -10.2,-0.5 -14,-1.8 z m 27.3,-43.3 c -29.8,0 -55.3,8.9 -72.2,14.3 -0.8,0.5 -3.6,3.1 -3.6,3.6 0.8,5.9 2.5,15.8 2.5,20.4 V 687 c 0,2 1.8,2.6 4.1,2.6 l 40,-3.8 c 2,-0.5 1.8,-2.3 1.8,-3.8 v -55.8 c 3.8,0.5 8.7,0 12,0 54.1,0 107.1,-37.5 107.1,-113.5 0.3,-57.8 -32,-101.1 -91.7,-101.1 z"
+     id="path4" /></g>
+</svg>

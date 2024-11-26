@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+table.skinny {
+	max-width: 940px; 
+}
+
+#reports {
+	text-align: center;
+}
+
+#reports img.thumb {
+	margin: auto 5px auto 5px;
+}
+
+.table-bordered {
+	border: 1px solid #ddd;
+}
+
+@media print {
+	.nav-tabs,
+	.topnav {
+		display: none;
+	}
+	.soundcloud {
+		display: none;
+	}
+	#table1,
+	#table2,
+	#table3 {
+		display: block;
+	}
+}

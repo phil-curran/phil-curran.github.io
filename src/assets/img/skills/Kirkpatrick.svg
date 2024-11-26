@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5"
+   height="5"
+   viewBox="0 0 1.3229166 1.3229167"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="kirkpatrick.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="8.5569446"
+     inkscape:cx="-0.23372829"
+     inkscape:cy="34.533354"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20"
+       id="linearGradient21"
+       x1="41.865147"
+       y1="61.129086"
+       x2="55.828632"
+       y2="61.129086"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient20"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ece77f;stop-opacity:1;"
+         offset="0"
+         id="stop20" />
+      <stop
+         style="stop-color:#dab34e;stop-opacity:1;"
+         offset="1"
+         id="stop21" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20"
+       id="linearGradient23"
+       x1="41.865147"
+       y1="61.129086"
+       x2="62.110939"
+       y2="61.129086"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g23"
+       transform="matrix(0.04337439,0,0,0.04337439,-1.8158751,-1.9924328)">
+      <path
+         id="rect4"
+         style="fill:url(#linearGradient21);fill-opacity:1;stroke-width:0.9963;stroke-linecap:round"
+         d="M 41.865145,45.935697 V 76.322473 H 61.138387 L 59.056344,74.24043 H 43.947188 V 48.019808 H 70.283049 V 74.24043 h -1.148768 l 2.082044,2.082043 h 1.148767 V 45.935697 Z"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <path
+         id="rect5"
+         style="fill:url(#linearGradient23);fill-opacity:1;stroke:none;stroke-width:2.07769;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.480684"
+         d="m 60.626274,50.519914 -9.374105,9.374105 -1.767851,1.76785 1.767851,1.767851 13.005924,13.005925 h 3.535702 L 53.02002,61.661869 64.161975,50.519914 Z m -14.171228,0.0072 V 71.73774 h 2.500105 5.17e-4 l 4.220931,-4.166154 -1.756482,-1.779219 -2.464966,2.432926 V 50.527148 Z" />
+    </g>
+  </g>
+</svg>

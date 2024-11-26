@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="5"
+   height="5"
+   viewBox="0 0 0.512 0.512"
+   preserveAspectRatio="xMinYMin"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Git.svg"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="16.98"
+     inkscape:cx="25.029446"
+     inkscape:cy="25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <path
+     d="M 0.50234499,0.23319221 0.27880055,0.00965977 c -0.012866,-0.01287402 -0.0337461,-0.01287402 -0.0466281,0 l -0.0464201,0.04642009 0.0588861,0.05888611 c 0.013684,-0.004624 0.0293761,-0.001522 0.0402841,0.009386 0.01096,0.010978 0.01404,0.0268041 0.009304,0.0405321 l 0.0567501,0.0567521 c 0.01373,-0.00473 0.0295721,-0.00167 0.0405381,0.009314 0.015326,0.01532 0.015326,0.0401501 0,0.0554801 -0.01533,0.015332 -0.0401601,0.015332 -0.0554981,0 -0.011528,-0.01154 -0.014376,-0.02847 -0.00854,-0.042672 l -0.0529241,-0.0529241 -6e-6,0.13927427 a 0.03964008,0.03964008 0 0 1 0.010376,0.00742 c 0.015326,0.01532 0.015326,0.0401521 0,0.0554941 -0.01533,0.015324 -0.0401721,0.015324 -0.0554801,0 -0.015326,-0.015342 -0.015326,-0.0401721 0,-0.0554921 a 0.03930808,0.03930808 0 0 1 0.012842,-0.008562 V 0.18839612 a 0.03875608,0.03875608 0 0 1 -0.012842,-0.008562 c -0.011612,-0.011596 -0.014404,-0.028634 -0.008454,-0.0428921 L 0.16294033,0.07888791 0.00966003,0.2321582 c -0.01288002,0.012886 -0.01288002,0.0337681 0,0.0466441 l 0.22354844,0.22353644 c 0.01287,0.012876 0.0337461,0.012876 0.0466321,0 L 0.50234299,0.2798403 c 0.012876,-0.01288 0.012876,-0.0337741 0,-0.0466481"
+     fill="#de4c36"
+     id="path1"
+     style="stroke-width:0.002" />
+</svg>
