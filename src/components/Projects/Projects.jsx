@@ -4,10 +4,25 @@ import { Box, Grid, Tabs, TabList, TabPanels, Tab } from "@chakra-ui/react";
 import SectionHeader from "../Misc/SectionHeader";
 import AnimatedTabPanel from "../Misc/MotionTabPanel";
 
-/* Project List */
+/* Project List Components */
 import AmzPrepTool from "./project_list/amz-prep-tool/AmzPrepTool";
 import UWMADxCoursera from "./project_list/uw_coursera/UWMADxCoursera";
+import FosterDesign from "./project_list/foster_design/FosterDesign";
+import RedfinProject from "./project_list/redfin_project/RedfinProject";
+import LMSAutomation from "./project_list/lms_automation/LMSAutomation";
+import Wishes from "./project_list/wishes/Wishes";
 
+/* Project Data */
+const projects = [
+  { name: "Amazon AWS Interview Prep Tool", component: AmzPrepTool },
+  { name: "Hybrid MBA Course Design", component: FosterDesign },
+  { name: "LMS Content Generation", component: LMSAutomation },
+  { name: "UW Madison x Coursera", component: UWMADxCoursera },
+  { name: "UWMAD x Wisconsin DPH: Caregiver Training", component: Wishes },
+  { name: "Redfin Demo Storyline Project", component: RedfinProject },
+];
+
+/* Simplified Projects Component */
 const Projects = () => {
   return (
     <Box id="projects" height="100vh">
@@ -32,46 +47,28 @@ const Projects = () => {
               borderBottom="none"
             >
               <Box display="flex" flexDirection="column" gap="10px">
-                <Tab
-                  color="white"
-                  _selected={{ bg: "gray" }}
-                  justifyContent="flex-end"
-                  display="flex"
-                  alignItems="center"
-                  borderRadius={4}
-                  p="10px"
-                >
-                  Amazon AWS Interview Prep Tool
-                </Tab>
-                <Tab
-                  color="white"
-                  _selected={{ bg: "gray" }}
-                  justifyContent="flex-end"
-                  display="flex"
-                  alignItems="center"
-                  borderRadius={4}
-                  p="10px"
-                >
-                  UW Madison x Coursera
-                </Tab>
-                {/* <Tab
-                  color="white"
-                  _selected={{ bg: "gray" }}
-                  justifyContent="flex-end"
-                  display="flex"
-                  alignItems="center"
-                  borderRadius={4}
-                  p="10px"
-                >
-                  U of WA x Workday
-                </Tab> */}
+                {projects.map((project, index) => (
+                  <Tab
+                    key={index}
+                    color="white"
+                    _selected={{ bg: "gray" }}
+                    justifyContent="flex-end"
+                    display="flex"
+                    alignItems="center"
+                    borderRadius={4}
+                    p="10px"
+                  >
+                    {project.name}
+                  </Tab>
+                ))}
               </Box>
             </TabList>
 
             {/* Project Details as Tab Panels */}
             <TabPanels bg="gray" p="20px" overflowY="auto" color="white">
-              <AnimatedTabPanel component={AmzPrepTool} key="amz-prep-tool" />
-              <AnimatedTabPanel component={UWMADxCoursera} key="project-two" />
+              {projects.map((project, index) => (
+                <AnimatedTabPanel key={index} component={project.component} />
+              ))}
             </TabPanels>
           </Grid>
         </Tabs>
