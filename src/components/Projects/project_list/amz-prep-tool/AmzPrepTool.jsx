@@ -63,7 +63,6 @@ const AmzPrepTool = () => {
           <Image
             src={ss1} // Replace with actual image source
             alt="Placeholder"
-            bg="red"
             boxSize="150px"
             borderRadius="md"
             cursor="pointer"
@@ -88,7 +87,7 @@ const AmzPrepTool = () => {
           </Box>
         </Flex>
         <Modal isOpen={isOpen1} onClose={onClose1} isCentered>
-          <ModalOverlay />
+          <ModalOverlay bg="whiteAlpha.500" backdropFilter="blur(20px)" />
           <ModalContent maxW="80%">
             {" "}
             {/* Adjusts modal size */}
@@ -99,11 +98,10 @@ const AmzPrepTool = () => {
               alignItems="center"
             >
               <Image
+                borderRadius={8}
                 src={ss1} // Replace with actual full-size image source
                 alt="Placeholder Full"
                 maxWidth="100%" // Ensures image fits within modal width
-                maxHeight="80vh" // Limits height to 80% of viewport height
-                objectFit="contain" // Maintains aspect ratio
               />
             </ModalBody>
           </ModalContent>
@@ -114,7 +112,6 @@ const AmzPrepTool = () => {
           <Image
             src={ss2} // Replace with actual image source
             alt="Placeholder"
-            bg="red"
             boxSize="150px"
             borderRadius="md"
             cursor="pointer"
@@ -134,7 +131,7 @@ const AmzPrepTool = () => {
           </Text>
         </Flex>
         <Modal isOpen={isOpen2} onClose={onClose2} isCentered>
-          <ModalOverlay />
+          <ModalOverlay bg="whiteAlpha.500" backdropFilter="blur(20px)" />
           <ModalContent maxW="80%">
             <ModalBody
               p={0}
@@ -143,11 +140,10 @@ const AmzPrepTool = () => {
               alignItems="center"
             >
               <Image
+                borderRadius={8}
                 src={ss2} // Replace with actual full-size image source
                 alt="Placeholder Full"
                 maxWidth="100%"
-                maxHeight="80vh"
-                objectFit="contain"
               />
             </ModalBody>
           </ModalContent>
@@ -158,7 +154,6 @@ const AmzPrepTool = () => {
           <Image
             src={ss3} // Replace with actual image source
             alt="Placeholder"
-            bg="red"
             boxSize="150px"
             borderRadius="md"
             cursor="pointer"
@@ -177,7 +172,7 @@ const AmzPrepTool = () => {
           </Text>
         </Flex>
         <Modal isOpen={isOpen3} onClose={onClose3} isCentered>
-          <ModalOverlay />
+          <ModalOverlay bg="whiteAlpha.500" backdropFilter="blur(20px)" />
           <ModalContent maxW="80%">
             <ModalBody
               p={0}
@@ -186,11 +181,10 @@ const AmzPrepTool = () => {
               alignItems="center"
             >
               <Image
+                borderRadius={8}
                 src={ss3} // Replace with actual full-size image source
                 alt="Placeholder Full"
                 maxWidth="100%"
-                maxHeight="80vh"
-                objectFit="contain"
               />
             </ModalBody>
           </ModalContent>

@@ -7,8 +7,9 @@ const UWMADxCoursera = () => {
     <Box
       width="75%" // Restricts width to 75% of the parent container
       mx="auto" // Centers the box horizontally
+      mt={4}
     >
-      <Heading as="h2" size="lg" mb={4} textAlign="center">
+      <Heading as="h2" size="lg" mb={6} textAlign="center">
         University of Wisconsin x Coursera:
         <br />
         Massive Open Online Courses
