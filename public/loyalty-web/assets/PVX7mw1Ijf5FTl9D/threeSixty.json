@@ -1,0 +1,104 @@
+{
+  "version": "3.37.21614.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "69unuyhURAP",
+      "title": "more lucrative",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5dH3816Ra2D",
+      "title": "inspections",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5u12Ckqg6yY",
+      "title": "walk away",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5k4doojoAdY",
+      "title": "closing table",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5t9tFhNADze",
+      "title": "best judgment",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5o1pqfWy7QA",
+      "title": "housewarming",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6Oyav4AMcfg",
+      "title": "honest pov",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5l5uxUsLYZ6",
+      "title": "final closing",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6OyDbqqYIiD",
+      "title": "physically present",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6jLWnYOAzn1",
+      "title": "property taxes",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "5p8HkyM0OSd",
+      "title": "share knowledge",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "6lVRDBKS5Wk",
+      "title": "exceptional service",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6QLNbEgRfP9",
+      "title": "common ground",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "5kyBuTK1m5M",
+      "title": "ask for referrals",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "67KJFbpZL96",
+      "title": "go-to resource",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "6dvzm1dhASS",
+      "title": "life details",
+      "scene_index": "1.16"
+    },
+    {
+      "id": "5vxraw9qU5h",
+      "title": "Untitled Slide",
+      "scene_index": "1.17"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 920,
+    "height": 496
+  },
+  "stage": {
+    "width": 900,
+    "height": 425
+  }
+}

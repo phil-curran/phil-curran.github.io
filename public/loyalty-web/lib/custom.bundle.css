@@ -1,0 +1,158 @@
+@font-face {
+	font-family: 'LibreFranklin';
+	src: url('./fonts/-t8s5BwfJIUz0i6h-librefranklin-regular-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'LibreFranklin';
+	src: url('./fonts/U7TmeiIszB4UEBrr-librefranklin-bold-webfont.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'LibreFranklin';
+	src: url('./fonts/vFb05xsprDHgXs4n-librefranklin-italic-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url('./fonts/Lato-Light.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url('./fonts/Lato-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url('./fonts/Lato-Bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url('./fonts/Lato-Italic.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Lato';
+	src: url('./fonts/Lato-Black.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+}
+.brand--head, .brand--head * {
+	font-family: 'LibreFranklin' !important;
+}
+.brand--body, .brand--body * {
+	font-family: 'LibreFranklin' !important;
+}
+.brand--lhead, .brand--lhead * {
+	font-family: 'LibreFranklin' !important;
+}
+.brand--lbody, .brand--lbody * {
+	font-family: 'LibreFranklin' !important;
+}
+.brand--ui, .brand--ui * {
+	font-family: 'Lato' !important;
+}
+.brand--beforeHead:before {
+	font-family: 'LibreFranklin' !important;
+}
+.brand--afterHead:after {
+	font-family: 'LibreFranklin' !important;
+}
+.brand--background {
+	background-color: #C82021 !important;
+}
+.brand--background-all * {
+	background-color: #C82021 !important;
+}
+.brand--border {
+	border-color: #C82021 !important;
+}
+.brand--color {
+	color: #C82021 !important;
+}
+.brand--color-all * {
+	color: #C82021 !important;
+}
+.brand--shadow {
+	box-shadow: 0 0 0 0.2rem #C82021 !important;
+}
+.brand--shadow-all * {
+	box-shadow: 0 0 0 0.2rem #C82021 !important;
+}
+.brand--fill {
+	fill: #C82021 !important;
+}
+.brand--stroke {
+	stroke: #C82021 !important;
+}
+.brand--beforeBackground:before {
+	background-color: #C82021 !important;
+}
+.brand--beforeBorder:before {
+	border-color: #C82021 !important;
+}
+.brand--beforeColor:before {
+	color: #C82021 !important;
+}
+.brand--afterBackground:after {
+	background-color: #C82021 !important;
+}
+.brand--afterBorder:after {
+	border-color: #C82021 !important;
+}
+.brand--afterColor:after {
+	color: #C82021 !important;
+}
+/* should be applied to containers where links
+         need to appear in brand color */
+.brand--linkColor a {
+	color: #C82021 !important;
+}
+/* should be applied to containers where links
+         need to change to brand color on hover */
+.brand--linkColorHover a:hover {
+	color: #C82021 !important;
+}
+/* should be applied to any single element that
+         needs to change color on hover */
+.brand--hoverColor:hover {
+	color: #C82021 !important;
+}
+/* TODO: probably need a way to create a 5-10% darker/lighter color */
+.brand--linkColor a:hover,
+.button.brand--background:hover {
+	opacity: .65 !important;
+}
+@media (min-width: 47.9375em) {
+	/* 768px */
+	.brand--min768--background {
+		background-color: #C82021 !important;
+	}
+	.brand--min768--border {
+		border-color: #C82021 !important;
+	}
+	.brand--min768--color {
+		color: #C82021 !important;
+	}
+}
+@media (max-width: 47.9375em) {
+	/* 768px */
+	.brand--max768--background {
+		background-color: #C82021 !important;
+	}
+	.brand--max768--border {
+		border-color: #C82021 !important;
+	}
+	.brand--max768--color {
+		color: #C82021 !important;
+	}
+}
