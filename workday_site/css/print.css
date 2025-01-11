@@ -1,0 +1,11 @@
+/* print things */
+
+@media print {
+  .dont-print { display:none; }
+  @page { size: landscape }
+  .thirteen.wide.column {
+    width: 90%;
+    margin: 0px;
+    padding: 0px;
+  }
+}
