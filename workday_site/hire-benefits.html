@@ -8,13 +8,6 @@
     <!-- css -->
     <link rel="stylesheet" type="text/css" href="css/semantic.css">
     <link rel="stylesheet" type="text/css" href="css/custom.css">
-    <link rel="stylesheet" type="text/css" href="css/print.css">
-    <style>
-      @media print {
-        .dont-print { display:none; }
-        @page { size: landscape }
-      }
-    </style>
     <!-- js -->
     <script src="js/jquery-3.1.0.min.js"></script>
     <script src="js/semantic.min.js"></script>
@@ -1237,17 +1230,29 @@
       </div>
       <!-- end derp -->
 
-    <script>
+      <script>
         $(document).ready(function() {
+            // Initialize sticky menu
             $('.ui.sticky').sticky({
                 context: '#split-content-pane'
             });
-            $("#modal-video").click(function() {
-                $('#basicmodal').modal('show');
-            });
-            $('.ui.embed').embed();
+    
+            // Initialize accordion
             $('.ui.accordion').accordion();
-            $('#sub1').accordion('toggle');
+    
+            // Initialize modal and embed
+            $("#modal-video").click(function() {
+                $('#basicmodal')
+                    .modal({
+                        onVisible: function() {
+                            $('.ui.embed').embed();
+                        }
+                    })
+                    .modal('show');
+            });
+    
+            // Initialize embed
+            $('.ui.embed').embed();
         });
     </script>
 
@@ -1256,9 +1261,14 @@
 <!-- Video Modal -->
 <div class="ui basic modal" id="basicmodal">
   <i class="red close icon"></i>
-    <video width="960" height="650" controls>
-      <source src="https://www.youtube.com/watch?v=22hTE4wrbUQ" type="video/mp4">
-    </video>
+  <div class="content">
+      <div class="ui embed" 
+           data-source="youtube" 
+           data-id="22hTE4wrbUQ" 
+           data-placeholder="https://img.youtube.com/vi/22hTE4wrbUQ/maxresdefault.jpg">
+      </div>
+  </div>
 </div>
+
 
 </html>
