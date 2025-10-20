@@ -11,6 +11,7 @@ import FosterDesign from "./project_list/foster_design/FosterDesign";
 import RedfinProject from "./project_list/redfin_project/RedfinProject";
 import LMSAutomation from "./project_list/lms_automation/LMSAutomation";
 import Wishes from "./project_list/wishes/Wishes";
+import Slidev from "./project_list/slidev/Slidev";
 
 /* Project Data */
 const projects = [
@@ -20,6 +21,7 @@ const projects = [
   { name: "UW Madison x Coursera", component: UWMADxCoursera },
   { name: "UWMAD x Wisconsin DPH: Caregiver Training", component: Wishes },
   { name: "Redfin Demo Storyline Project", component: RedfinProject },
+  { name: "Slidev Demo", component: Slidev },
 ];
 
 /* Simplified Projects Component */
