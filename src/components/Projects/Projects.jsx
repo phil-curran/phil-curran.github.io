@@ -18,7 +18,7 @@ const projects = [
   { name: "Hybrid MBA Course Design", component: FosterDesign },
   { name: "LMS Content Generation", component: LMSAutomation },
   { name: "UW Madison x Coursera", component: UWMADxCoursera },
-  { name: "UWMAD x Wisconsin DPH: Caregiver Training", component: Wishes },
+  { name: "UWMAD x WI DPH: Caregiver Training", component: Wishes },
   { name: "Redfin Demo Storyline Project", component: RedfinProject },
 ];
 

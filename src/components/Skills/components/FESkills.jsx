@@ -43,10 +43,15 @@ const FESkills = () => {
           key={skill.name}
           bg="gray.800"
           borderRadius="md"
+          border="1px solid #1a1a1a"
+          maxWidth="200px"
           p={6}
           boxShadow="md"
-          transition="transform 0.15s"
-          _hover={{ transform: "scale(1.2)" }}
+          transition="transform 0.15s, box-shadow 0.15s"
+          _hover={{
+            transform: "scale(1.1)",
+            boxShadow: "0 4px 14px rgba(255, 255, 255, 0.9)",
+          }}
         >
           <Image src={skill.icon} alt={skill.name} boxSize="50px" mb={2} />
           <Text fontSize="lg" fontWeight="bold">
