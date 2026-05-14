@@ -138,8 +138,7 @@ const Home = () => {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.5, delay: 0.6 }}
           >
-            Currently open to new opportunities. Get in touch, and let’s create
-            something awesome together.
+            Get in touch, and let’s create something awesome together.
           </MotionText>
         </Box>
       </Box>
